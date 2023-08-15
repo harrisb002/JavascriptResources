@@ -1,0 +1,212 @@
+[
+  {
+    "department_id": 1,
+    "department_name": "American Multicultural Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 2,
+    "department_name": "Anthropology",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 3,
+    "department_name": "Art and Art History",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 4,
+    "department_name": "Biology",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 5,
+    "department_name": "Business Administration",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 6,
+    "department_name": "Chemistry",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 7,
+    "department_name": "Chicano and Latino Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 8,
+    "department_name": "Communication and Media Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 9,
+    "department_name": "Computer Science",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 10,
+    "department_name": "Counseling",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 11,
+    "department_name": "Criminology and Criminal Justice Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 12,
+    "department_name": "Economics",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 13,
+    "department_name": "Education: Curriculum Studies & Secondary Education (CSSE)",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 14,
+    "department_name": "Education: Early Childhood Studies (ECS)",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 15,
+    "department_name": "Education: Educational Leadership and Special Education (ELSE)",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 16,
+    "department_name": "Education: Literacy Studies and Elementary Education (LSEE)",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 17,
+    "department_name": "Engineering",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 18,
+    "department_name": "English",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 19,
+    "department_name": "Film Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 20,
+    "department_name": "Geography, Environment and Planning",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 21,
+    "department_name": "Geology",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 22,
+    "department_name": "Global Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 23,
+    "department_name": "History",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 24,
+    "department_name": "Human Development",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 25,
+    "department_name": "Hutchins School of Liberal Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 26,
+    "department_name": "Interdisciplinary Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 27,
+    "department_name": "Jewish Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 28,
+    "department_name": "Kinesiology",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 29,
+    "department_name": "Linguistics",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 30,
+    "department_name": "Mathematics and Statistics",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 31,
+    "department_name": "Modern Languages and Literatures",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 32,
+    "department_name": "Music",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 33,
+    "department_name": "Native American Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 34,
+    "department_name": "Nursing",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 35,
+    "department_name": "Philosophy",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 36,
+    "department_name": "Physics and Astronomy",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 37,
+    "department_name": "Political Science",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 38,
+    "department_name": "Psychology",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 39,
+    "department_name": "School of Extended and International Education",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 40,
+    "department_name": "Sociology",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 41,
+    "department_name": "Theatre Arts & Dance",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  },
+  {
+    "department_id": 42,
+    "department_name": "Women's and Gender Studies",
+    "url": "https://catalog.sonoma.edu/content.php?catoid=9&navoid=1180"
+  }
+]
